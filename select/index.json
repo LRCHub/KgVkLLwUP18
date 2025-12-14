@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "夢の途中",
+  "base_artist": "来生たかお",
+  "createdAt": "2025-12-14T12:02:58.760725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夢の途中(オーケストラアレンジ)",
+      "artist": "Takao Kisugi",
+      "has_synced": false,
+      "path": "select/01_夢の途中(オーケストラアレンジ)_Takao_Kisugi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "KOKIA",
+      "has_synced": true,
+      "path": "select/02_夢の途中_KOKIA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "Takao Kisugi",
+      "has_synced": true,
+      "path": "select/03_夢の途中_Takao_Kisugi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/04_夢の途中_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "KOKIA",
+      "has_synced": true,
+      "path": "select/05_夢の途中_KOKIA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夢の途中 〜セーラー服と機関銃〜",
+      "artist": "PENICILLIN",
+      "has_synced": false,
+      "path": "select/06_夢の途中_〜セーラー服と機関銃〜_PENICILLIN.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "来生たかお",
+      "has_synced": true,
+      "path": "select/07_夢の途中_来生たかお.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "Kisugi, Takao",
+      "has_synced": true,
+      "path": "select/08_夢の途中_Kisugi,_Takao.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "来生たかお",
+      "has_synced": true,
+      "path": "select/09_夢の途中_来生たかお.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/10_夢の途中_ラックライフ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "KOKIA",
+      "has_synced": false,
+      "path": "select/11_夢の途中_KOKIA.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "夢の途中",
+      "artist": "KOKIA",
+      "has_synced": true,
+      "path": "select/12_夢の途中_KOKIA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "夢の途中(COLOR OF LIFE live Ver.)",
+      "artist": "KOKIA",
+      "has_synced": true,
+      "path": "select/13_夢の途中(COLOR_OF_LIFE_live_Ver.)_KOKIA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢の途中",
+      "artist": "来生 たかお",
+      "has_synced": false,
+      "path": "select/pl_01_夢の途中_来生_たかお.txt"
+    }
+  ]
+}
